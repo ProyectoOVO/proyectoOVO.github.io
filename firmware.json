@@ -1,5 +1,5 @@
 {
   "version": 1.0,
-  "URL_UPDATE_ESP32": "https://proyectoovo.github.io/firmware_esp32_1.0.bin"
+  "URL_UPDATE_ESP32": "https://proyectoovo.github.io/firmware_esp32_1.0.bin",
   "URL_UPDATE_ESP32CAM": "https://proyectoovo.github.io/firmware_esp32CAM_1.0.bin"
 }
